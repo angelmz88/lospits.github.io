@@ -1,4 +1,16 @@
 @media (max-width:1000px){
+   #Los {
+  display: none !important;
+}
+
+  nav ul li {
+    text-align: center;
+    width: 100%;
+  }
+  nav ul li a {
+    display: block !important;
+  }
+  
   .about__img img {
     margin-top: 25px;
     width: 250px !important;
