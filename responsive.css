@@ -1,4 +1,4 @@
-@media screen and (max-width:1000px){
+@media (max-width:1000px){
   .about__img img {
     margin-top: 25px;
     width: 250px !important;
@@ -6,7 +6,7 @@
   }
 }
 
-@media screen and (max-width:880px){
+@media (max-width:880px){
   
   .header {
     font-size: 15px !important;
@@ -45,7 +45,7 @@
 
 }
 
-@media screen and (max-width:680px) {
+@media (max-width:680px) {
 
  #Los {
   display: none !important;
@@ -92,7 +92,7 @@
   }
 }
 
-@media screen and (max-width:520px){
+@media (max-width:520px){
   .main,
   .footer {
     font-size: 12px !important;
