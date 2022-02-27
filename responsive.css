@@ -7,10 +7,14 @@
 }
 
 @media (max-width:880px){
-  h1 {
-    color: green;
+    nav ul li {
+    text-align: center;
+    width: 100%;
   }
-
+  nav ul li a {
+    display: block !important;
+  }
+  
   .header {
     font-size: 15px !important;
   }
@@ -49,9 +53,6 @@
 }
 
 @media (max-width:680px) {
- h1 {
-   color: red;
- }
 
  #Los {
   display: none !important;
