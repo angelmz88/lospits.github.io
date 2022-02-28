@@ -1,5 +1,4 @@
-@media (max-width:1500px){
- 
+@media (max-width:1000px){
   .about__img img {
     margin-top: 25px;
     width: 250px !important;
@@ -7,30 +6,35 @@
   }
 }
 
-@media (max-width:1025px){
+@media (max-width:980px){
   
-    #Los {
+  #Los {
   display: none !important;
-}
- 
- .header__container  {
+  }
+
+  .header__container  {
     margin: auto 0;
     display: block;
-    flex-wrap: wrap;
+    justify-content: center !important;
+  }
+
+  .nav__ul {
+    text-align: center;
   }
 
   .nav ul li {
     text-align: center;
-    width: 100%;
+    width: 80%;
   }
- 
+
   .nav ul li a {
     display: block !important;
+
   }
 }
 
-@media (max-width:880px){
-  
+@media screen and (max-width:880px){
+
   .header {
     font-size: 15px !important;
   }
