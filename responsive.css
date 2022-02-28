@@ -9,22 +9,19 @@
 
 @media (max-width:1025px){
   
-  h1 {
-    color: red;
-  }
- 
- .header__container {
-  display: none !important;
- }
- 
     #Los {
   display: none !important;
 }
+ 
+ .nav  {
+    margin: auto 0;
+  }
 
   .nav ul li {
     text-align: center;
     width: 100%;
   }
+ 
   .nav ul li a {
     display: block !important;
   }
