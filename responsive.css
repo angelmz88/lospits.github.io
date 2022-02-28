@@ -7,7 +7,7 @@
   }
 }
 
-@media (max-width:1025){
+@media (max-width:1025px){
     #Los {
   display: none !important;
 }
