@@ -16,6 +16,7 @@
  .header__container  {
     margin: auto 0;
     display: block;
+    flex-wrap: wrap;
   }
 
   .nav ul li {
