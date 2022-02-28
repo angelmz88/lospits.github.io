@@ -13,8 +13,9 @@
   display: none !important;
 }
  
- .nav  {
+ .header__container  {
     margin: auto 0;
+    display: block;
   }
 
   .nav ul li {
