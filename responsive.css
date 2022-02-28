@@ -1,5 +1,14 @@
 @media (max-width:1500px){
-   #Los {
+  
+  .about__img img {
+    margin-top: 25px;
+    width: 250px !important;
+    height: 250px !important;
+  }
+}
+
+@media (max-width:1025){
+    #Los {
   display: none !important;
 }
 
@@ -9,12 +18,6 @@
   }
   nav ul li a {
     display: block !important;
-  }
-  
-  .about__img img {
-    margin-top: 25px;
-    width: 250px !important;
-    height: 250px !important;
   }
 }
 
