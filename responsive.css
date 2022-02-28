@@ -23,6 +23,7 @@
 
   .nav__ul {
     text-align: center;
+    padding: 0;
   }
 
   .nav ul li {
@@ -37,6 +38,11 @@
 }
 
 @media screen and (max-width:880px){
+  
+  .nav__ul {
+    text-align: center;
+    padding: 0;
+  }
 
   .main {
     font-size: 18px !important;
