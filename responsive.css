@@ -62,18 +62,6 @@
 
 @media (max-width:680px) {
 
- #Los {
-  display: none !important;
-}
-
-  nav ul li {
-    text-align: center;
-    width: 100%;
-  }
-  nav ul li a {
-    display: block !important;
-  }
-
  .main,
   .footer {
     font-size: 14px !important;
