@@ -8,6 +8,10 @@
 }
 
 @media (max-width:1025px){
+  
+  h1 {
+    color: red;
+  }
     #Los {
   display: none !important;
 }
