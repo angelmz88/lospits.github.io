@@ -7,6 +7,9 @@
 }
 
 @media (max-width:980px){
+  .header {
+    font-size: 23px !important;
+  }
   
   #Los {
   display: none !important;
@@ -34,10 +37,6 @@
 }
 
 @media screen and (max-width:880px){
-
-  .header {
-    font-size: 15px !important;
-  }
 
   .main {
     font-size: 18px !important;
